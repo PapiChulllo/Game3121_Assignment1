@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 302474a033c271a4191d20f7352aa3a6
+  productGUID: e9f477e1c56da7d44b67cca3485028e6
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Game3121_Assignment1
+  productName: Part2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -903,14 +903,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Game3121_Assignment1
+  metroPackageName: Part2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Game3121_Assignment1
+  metroApplicationDescription: Part2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -980,11 +980,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7267e86b-b67b-4448-9521-d74f87b173f3
+  cloudProjectId: 197cab09-1bd1-4042-855a-0ddfd480a948
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Game3121_Assignment1
-  organizationId: pappichullo
+  projectName: Part2
+  organizationId: hakozcan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
